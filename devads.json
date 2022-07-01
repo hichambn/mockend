@@ -3,9 +3,9 @@
    "AdmobBannerID":"ca-app-pub-3940256099942544/6300978111",
    "AdmobInterstitialID":"ca-app-pub-3940256099942544/1033173712",
    "AdmobRewardID":"ca-app-pub-3940256099942544/5224354917",
-   "FacebookBannerID":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-   "FacebookInterstitialID":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-   "FacebookRewardID":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+   "FacebookBannerID":"389390695461128_389391905461007",
+   "FacebookInterstitialID":"389390695461128_389392688794262",
+   "FacebookRewardID":"389390695461128_389392945460903",
    "IronsourceAppKey":"121f62515",
    "IronsourceBannerID":"DefaultBanner",
    "IronsourceInterstitialID":"DefaultInterstitial",
@@ -19,5 +19,5 @@
    "UnityAdsInterstitialID":"video",
    "UnityAdsRewardID":"rewardedVideo",
    "Onesignalkey":"23484ce3-bd04-4cf4-8734-6356993bff0d",
-   "AdstoShow":"unityads"
+   "AdstoShow":"facebook"
 }
