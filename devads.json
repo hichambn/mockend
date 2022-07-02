@@ -5,7 +5,7 @@
    "FacebookBannerID":"389390695461128_389391905461007",
    "FacebookInterstitialID":"389390695461128_389392688794262",
    "FacebookRewardID":"389390695461128_389392945460903",
-   "IronsourceAppKey":"121f62515",
+   "IronsourceAppKey":"1351feb81",
    "IronsourceBannerID":"DefaultBanner",
    "IronsourceInterstitialID":"DefaultInterstitial",
    "IronsourceRewardID":"DefaultRewardedVideo",
@@ -18,5 +18,5 @@
    "UnityAdsInterstitialID":"Interstitial_Android",
    "UnityAdsRewardID":"Rewarded_Android",
    "Onesignalkey":"23484ce3-bd04-4cf4-8734-6356993bff0d",
-   "AdstoShow":"facebook"
+   "AdstoShow":"ironsource"
 }
