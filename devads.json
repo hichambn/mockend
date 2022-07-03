@@ -17,5 +17,5 @@
    "UnityAdsInterstitialID":"Interstitial_Android",
    "UnityAdsRewardID":"Rewarded_Android",
    "Onesignalkey":"23484ce3-bd04-4cf4-8734-6356993bff0d",
-   "AdstoShow":"unityads"
+   "AdstoShow":"admob"
 }
